@@ -5,3 +5,5 @@ Setting up github through Rstudio
 Hello world!
 
 Sahib Dhaliwal
+
+Editing the master branch
