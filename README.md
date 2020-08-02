@@ -6,9 +6,9 @@ Hello world!
 
 Sahib Dhaliwal
 
-<<<<<<< HEAD
+1. clone
+2. idk
+3. idk
+4.idk
 
-Local change to MB
-=======
 Editing the master branch
->>>>>>> 912bd0be4b6a2a3a741d386ae528a19e1a79e311
